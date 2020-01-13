@@ -1,0 +1,12 @@
+Instruction Cache Size: 0
+Data Cache Size: 65536
+Block Size: 32
+Way: 4
+Data Type: u
+Data File: pinatrace_linpack.out
+
+               Total         Instruction         Data(Read+Write)         Read         Write 
+Misses         21280                   0                   21280          3792         17488
+Hits         7069383                   0                 7069383       5165185       1904198
+Total        7090663                   0                 7090663       5168977       1921686
+Miss Rate     0.0030             -1.#IND                  0.0030        0.0007        0.0091

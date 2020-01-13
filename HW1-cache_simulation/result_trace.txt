@@ -1,0 +1,11 @@
+Cache Size: 32768
+Block Size: 8
+Way: 1
+Data Type: s
+Data File: trace.din
+
+               Total         Instruction         Data(Read+Write)         Read         Write 
+Misses          5959                  87                    5872          2105          3767
+Hits          826518              597222                  229296        128550        100746
+Total         832477              597309                  235168        130655        104513
+Miss Rate     0.0072              0.0001                  0.0250        0.0161        0.0360

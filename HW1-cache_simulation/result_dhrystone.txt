@@ -1,0 +1,12 @@
+Instruction Cache Size: 0
+Data Cache Size: 65536
+Block Size: 32
+Way: 4
+Data Type: u
+Data File: pinatrace_dhrystone.out
+
+               Total         Instruction         Data(Read+Write)         Read         Write 
+Misses            28                   0                      28            12            16
+Hits              35                   0                      35            18            17
+Total             63                   0                      63            30            33
+Miss Rate     0.4444             -1.#IND                  0.4444        0.4000        0.4848
