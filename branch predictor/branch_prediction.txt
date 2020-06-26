@@ -1,0 +1,15 @@
+Input Data File: branch-trace-gcc.trace
+Output Data File: branch_prediction.txt
+
+Preditor type(G:Global, L: local, S: Gshare, O:one level): H
+Pattern History Table size: 1024
+Local History Register Size: 128
+Global History Register Bits: 10
+PC Shift Bits: 5
+
+Branches             Total         Taken            Not Take
+Misses             2964581       1675457             1289124
+Hits              13451699       4536138             8915561
+Total             16416280       6211595            10204685
+Hit Rate            0.8194        0.7303              0.8737 
+Miss Rate           0.1806        0.2697              0.1263 
