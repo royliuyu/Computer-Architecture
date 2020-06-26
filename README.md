@@ -1,5 +1,5 @@
 # Computer-Architecture
 HW0-benchmark  
-cache simulator   
+cache simulation
 prefetch simulation   
 branch predictor
