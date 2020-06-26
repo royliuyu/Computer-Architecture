@@ -1,0 +1,16 @@
+Instruction Cache Size: 0
+Data Cache Size: 16384
+Block Size: 32
+Associativity: 4
+Data Type: s
+Prefetch Control Table Size: 128
+Prefetch Buffer Size: 4096
+Confidence Size: 4
+Input Data File: pinatrace_linpack.out
+Output Data File: result_linpack.txt
+
+               Total      Prefetch         Instruction         Data(Read+Write)          Read         Write
+Misses         11165         44284                   0                    11165            72         11093
+Hits         4660498       4627379                   0                    33119           141         32978
+Total        4671663       4671663                   0                    44284           213         44071
+Miss Rate     0.0024        0.0095              -1.#IND                  0.2521        0.3380        0.2517

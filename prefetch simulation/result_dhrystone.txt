@@ -1,0 +1,16 @@
+Instruction Cache Size: 0
+Data Cache Size: 16384
+Block Size: 32
+Associativity: 4
+Data Type: s
+Prefetch Control Table Size: 16
+Prefetch Buffer Size: 512
+Confidence Size: 2
+Input Data File: pinatrace_dhrystone.out
+Output Data File: result_dhrystone.txt
+
+               Total      Prefetch         Instruction         Data(Read+Write)          Read         Write
+Misses           269          1172                   0                      269           224            45
+Hits         5043850       5042947                   0                      903           826            77
+Total        5044119       5044119                   0                     1172          1050           122
+Miss Rate     0.0001        0.0002              -1.#IND                  0.2295        0.2133        0.3689
